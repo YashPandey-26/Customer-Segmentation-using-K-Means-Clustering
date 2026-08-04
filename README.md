@@ -36,7 +36,4 @@ The model successfully groups customers into meaningful clusters, enabling busin
 3. Open the Jupyter Notebook.
 4. Run all cells to reproduce the analysis and visualizations.
 
-## 📜 License
-This project is open-source and available under the MIT License.-using-K-Means-Clustering
-Customer Segmentation using K-Means Clustering groups customers based on their purchasing behavior and characteristics. It helps businesses identify customer segments for targeted marketing and better decision-making.
-  
+
